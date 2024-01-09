@@ -1,0 +1,5 @@
+User: What is principle 4?
+RAG-E: 
+Answer based on context only: Principle 4 is Resiliency.
+
+Answer based on context + LLM knowledge: Principle 4 is Resiliency, which is the ability to maintain operations in the face of unexpected events or changes. It involves the implementation of measures to ensure that systems remain available and secure in the event of a disaster or other disruption.Source Source Source Source 
